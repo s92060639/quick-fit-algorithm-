@@ -14,6 +14,9 @@
     </style>
 </head>
 <body>
+<header>
+        <h1>Hotel Room Booking System (Quick Fit Algorithm)</h1>
+    </header>
     
 </body>
 </html>
